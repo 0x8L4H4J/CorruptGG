@@ -1,7 +1,7 @@
 {
     "Name": "BlåhajAIO",
     "File": "script.corrupt",
-    "Version": 1.041,
+    "Version": 1.042,
     "Type": "Champion AIO",
     "Champions": ["Kalista", "Kassadin", "Twitch"]
 }
